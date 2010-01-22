@@ -1,0 +1,11 @@
+*** This is a VS 2010 project in Winforms
+Yes. Please don't kill me.
+
+*** What it does
+MD5Encoder takes a string (a number of characters) and calculatues the corresponding hashes. Two buttons are offered to send these checksums to a Google search.
+
+*** Why would one want that
+To find out if your password has been cracked.
+
+*** Where are the binaries?
+You can't, yet.
